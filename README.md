@@ -1,4 +1,4 @@
-Hi 👋 My name is Pie
+Hi 👀 My name is Pie
 ====================
 
 I'm currently a sophomore studying Computer Engineering at Chulalongkorn University.
