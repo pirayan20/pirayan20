@@ -4,7 +4,7 @@ Hi 👀 My name is Pie
 I'm currently a sophomore studying Computer Engineering at Chulalongkorn University.
 
 *   🌍  I'm based in Bangkok, Thailand
-*   🧠  I'm learning Algorithm desigin and some Rust on the side
+*   🧠  I'm mainly focusing on data science and data engineer
 *   ⚡  Vulfpeck enthusiast \[bass player myself\]
 
 ### Skills 
