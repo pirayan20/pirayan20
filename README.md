@@ -82,9 +82,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pirayan20/pirayan20/output/snake.svg" alt="Snake animation" />
-
-###
