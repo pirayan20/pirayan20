@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Pirayan Rananad (Pie) located in BKK<br><br>- 🔭 I’m currently a Senior at Computer Engineering Department at Chulalongkorn University<br>- 📚 I'm currently learning about Deep Learning and Reinforcement Learning. <br>- ⚡ In my free time I slap some behss</p>
+<p align="left">I'm Pirayan Rananad (Pie) located in BKK<br><br>- 🔭 I’m currently a Senior in Computer Engineering Department at Chulalongkorn University<br>- 📚 I'm currently learning about Deep Learning and Reinforcement Learning. <br>- ⚡ In my free time I slap some behss</p>
 
 ###
 
