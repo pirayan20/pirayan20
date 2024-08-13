@@ -30,10 +30,14 @@
 ###
 
 <p align="left">I'm Pirayan Rananad (Pie) located in BKK<br><br>- 🔭 I’m currently a Senior in Computer Engineering Department at Chulalongkorn University<br>- 📚 I'm currently learning about Deep Learning and Reinforcement Learning. <br>- ⚡ In my free time I slap some behss</p>
+<p style="text-align: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pirayan20&show_icons=true&locale=en&layout=compact" alt="pirayan20" style="width: 30%; height: auto;" />
+</p>
 
 ###
 
 <h3 align="left">🛠 Programming Language</h3>
+
 
 ###
 
@@ -82,3 +86,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
+
