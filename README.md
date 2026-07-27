@@ -1,89 +1,58 @@
-<div style="width: 100%; text-align: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*2Ga-idVlP3zqya8fj2RCIg.png" style="width: 100%; height: auto;" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pirayan-rananand-122763268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@pirayan20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pirayan20/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">Hello there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Pirayan Rananad (Pie) located in BKK<br><br>- 🔭 I’m currently a Senior in Computer Engineering Department at Chulalongkorn University<br>- 📚 I'm currently learning about Deep Learning and Reinforcement Learning. <br>- ⚡ In my free time I slap some behss</p>
-<p style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pirayan20&show_icons=true&locale=en&layout=compact" alt="pirayan20" style="width: 30%; height: auto;" />
-</p>
-
-###
-
-<h3 align="left">🛠 Programming Language</h3>
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h3 align="left">Developer Frameworks</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-</div>
-
+<div align="center">                                                                                                      
+                                                                                                                               
+ # Hi, I'm Pirayan “Pie” Rananand 👋                                                                                       
+                                                                                                                           
+ ### Data Scientist · AI Engineer                                                                                          
+                                                                                                                           
+ I build intelligent systems that combine machine learning, data, and production software.                                 
+                                                                                                                           
+ Bangkok, Thailand 🇹🇭 · Computer Engineering @ Chulalongkorn University                                                    
+                                                                                                                           
+                                                                                                                           
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirayan-rananand-122763268/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@pirayan20) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pirayan20@gmail.com)                                                                                                                          
+                                                                                                                           
+ </div>                                                                                                                    
+                                                                                                                           
+ ## About me                                                                                                               
+                                                                                                                           
+ - 🤖 I work on AI agents, LLM applications, and retrieval-augmented generation                                            
+ - 📊 I explore machine learning, causal inference, and time-series analysis                                               
+ - ⚙️ I enjoy turning experiments into reliable, production-ready systems                                                                             
+ - 🛠️ I also build developer tools that improve AI-assisted workflows                                                      
+ - 🎸 In my free time, I slap some bass                                                                                    
+                                                                                                                           
+ ## Languages                                                                                                              
+                                                                                                                           
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                       
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)           
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)           
+ ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)                             
+ ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)                                   
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)                          
+ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)                          
+ ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)                          
+                                                                                                                           
+ ## AI & Data                                                                                                              
+                                                                                                                           
+ ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)                    
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)     
+ ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)                       
+ ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)              
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)                    
+                                                                                                                           
+ ## Engineering & Infrastructure                                                                                           
+                                                                                                                           
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)           
+ ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)      
+ ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)                         
+ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)                  
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)                  
+ ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)                                
+                                                                                                                           
+ <div align="center">                                                                                                      
+                                                                                                                           
+ <img                                                                                                                      
+src="https://github-readme-stats.vercel.app/api/top-langs?username=pirayan20&layout=compact&hide_border=true&theme=transpare
+nt" alt="Most used languages" />                                                                                            
+                                                                                                                           
+ </div>
