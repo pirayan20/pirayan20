@@ -50,9 +50,5 @@
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)                                
                                                                                                                            
  <div align="center">                                                                                                      
-                                                                                                                           
- <img                                                                                                                      
-src="https://github-readme-stats.vercel.app/api/top-langs?username=pirayan20&layout=compact&hide_border=true&theme=transpare
-nt" alt="Most used languages" />                                                                                            
-                                                                                                                           
+                                                                                        
  </div>
